@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+.game-container {
+  padding: 20px;
+}
+.image-box img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.options button {
+  margin: 5px;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+.chat-box {
+  margin-top: 20px;
+}

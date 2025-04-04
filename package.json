@@ -1,0 +1,16 @@
+{
+  "name": "image-identification-game",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://abhishek1997197.github.io/hkl",
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "socket.io-client": "^4.0.0"
+  },
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "build": "webpack --mode production"
+  }
+}
